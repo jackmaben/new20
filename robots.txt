@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Allow: /assets/
+Allow: /favicon.ico
+Disallow: /uploads/
+
+User-agent: Googlebot-Image
+Allow: /
+
+Sitemap: https://www.optimizetechstudio.com/sitemap.xml
